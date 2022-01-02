@@ -1,13 +1,13 @@
 # TokenChecker
 This bot/code checks a token of your choice.
 
-*How to use?* `(prefix) \[token\]`
+*How to use?* `(prefix) [token]`
 
 If you don't like the tokens getting logged to console simply remove the `console.log(text);` in `checkToken.js`
 
 ## Requirements & Information
 
-- This code was created by me, you have full permission to edit it and or use it in other bots. Just please don't sell it!! 
+- This code was created by me, you have full permission to edit it and or use it in other bots. **Don't sell it!**
 - It'd be nice if you could credit me too!
 
 ## Requirements
