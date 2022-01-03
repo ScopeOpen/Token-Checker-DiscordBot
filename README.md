@@ -13,7 +13,7 @@ If you don't like the tokens getting logged to console simply remove the `consol
 ## Requirements
 - Must run command
 - `npm i request`
-
+- Node `https://nodejs.org/en/download/`
 ## Bot Setup
 
 - Fork the repository
