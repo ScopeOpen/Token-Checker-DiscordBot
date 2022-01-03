@@ -31,3 +31,9 @@ If you don't like the tokens getting logged to console simply remove the `consol
 - Copy code for command
 - Add into your desired command handler/code structure
 - Run bot
+
+# Examples Of Bot/Cmd
+<p align="center"><br>
+	<img src="https://cdn.discordapp.com/attachments/926118038837796904/927418007465099274/fSBT6y83.png">
+     </a>
+</p>
